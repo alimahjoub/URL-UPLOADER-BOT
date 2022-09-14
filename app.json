@@ -25,19 +25,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string from @Botfather.",
-      "value": ""
+      "value": "2118949487:AAHPs4R6b5_4xg4jDr-alKHFJjws-PdMiuo"
     },
     "APP_ID": {
       "description": "Get this value from or https://my.telegram.org",
-      "value": ""
+      "value": "16643712"
     },
     "API_HASH": {
       "description": "Get this value from or https://my.telegram.org",
-      "value": ""
+      "value": "08f416c75c0d725ec7d19d52e49df68c"
     },
     "AUTH_USERS": {
       "description": "Your telegram I'd use this bot @UploadLinkToFileBot and use /info",
-      "value": "1834908260"
+      "value": "860155988"
     },
     "BANNED_USERS": {
       "description": "Type the user id to be banned",
@@ -46,7 +46,7 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "urluploader248",
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
